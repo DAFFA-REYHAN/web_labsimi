@@ -1,0 +1,63 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-weight: 600;
+
+}
+#beranda {
+    height: 100vh;
+    max-width: 100%;
+    /* margin-top: -60px; */
+}
+
+#berita{
+    height: 100vh;
+  
+    max-width: 100%;
+    
+}
+#perlengkapan{
+    height: 100vh;
+  
+    max-width: 100%;
+    
+}
+
+.btn.btn-danger{
+    background-color: #b41c11;
+    margin-top: 20px;
+    padding:10px;
+    border: none;
+}
+
+
+.gambars{
+    animation: rotate 5s linear infinite;
+}
+@keyframes rotate {
+    0% { transform: rotate(0deg) ; }
+    50% { transform: rotate(20deg); }
+  }
+
+.navbar-light {
+    transition: 0.2s ease-in-out;
+}
+
+
+
+
+  
+/* responsive */
+/* @media screen (max-width:400px) {
+    
+}
+
+@media screen (max-width:1024px) {
+    
+} */
+
