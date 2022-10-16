@@ -153,7 +153,7 @@
             <div class="row">
                 <h1 class="text-light text-center pb-5">Perlengkapan Praktikum</h1>
                 <div class="col-md-4">
-                    <div class="card position-relative" style="width: 18rem;">
+                    <div class="card position-relative card-perlengkapan" style="width: 18rem;">
                         <div class="card-icon-stay text-center position-absolute ">
                             <h1 class="bi bi-book text-light bi-icon"></h1>
                         </div>
@@ -171,7 +171,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="card position-relative" style="width: 18rem;">
+                    <div class="card position-relative card-perlengkapan" style="width: 18rem;">
                         <div class="card-icon-stay text-center position-absolute ">
                             <h1 class="bi bi-book text-light bi-icon"></h1>
                         </div>
@@ -189,7 +189,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="card position-relative" style="width: 18rem;">
+                    <div class="card position-relative card-perlengkapan" style="width: 18rem;">
                         <div class="card-icon-stay text-center position-absolute ">
                             <h1 class="bi bi-book text-light bi-icon"></h1>
                         </div>
@@ -264,6 +264,14 @@
 
             }
         })
+    </script>
+
+    <script type="text/javascript" src="vanilla-tilt.js"></script>
+    <script>
+        VanillaTilt.init(document.querySelectorAll(".card-perlengkapan"), {
+            max: 25,
+            speed: 400
+        });
     </script>
 
 
