@@ -1,8 +1,12 @@
+html{
+    scroll-behavior: smooth;
+}
 *{
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     margin: 0;
     padding: 0;
+    
 }
 
 h1{
@@ -169,6 +173,24 @@ footer .container-fluid {
     transition: 0.2s ease-in-out;
 }
 
+
+
+/* BUTTON MODAL */
+.btn_modal{
+    background-color: white ;
+    border: none;
+    
+}
+
+.btn_modal:target{
+    border: none !important;
+    
+}
+
+footer a{
+    text-decoration: none;
+    color: #818080;
+}
   
 /* responsive */
 /* @media only screen and (max-width: 400px) {
