@@ -179,7 +179,7 @@
         <div class="container position-relative">
             <div class="row mx-0 pb-4">
                 <h2 class="text-light text-center pb-5 fw-bold perlengkapan-judul">Perlengkapan Praktikum</h2>
-                <div class="col-md-4">
+                <div class="col-lg-4 col-md-6">
                     <div class="card position-relative card-perlengkapan mb-2 mx-auto" style="width: 18rem;">
                         <div class="card-icon-stay text-center position-absolute ">
                             <h1 class="bi bi-book text-light bi-icon"></h1>
@@ -198,7 +198,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-lg-4 col-md-6">
                     <div class="card position-relative card-perlengkapan mb-2 mx-auto" style="width: 18rem;">
                         <div class="card-icon-stay text-center position-absolute ">
                             <h1 class="bi bi-cloud-download text-light bi-icon"></h1>
@@ -217,7 +217,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-lg-4 col-md-6 mx-auto">
                     <div class="card position-relative card-perlengkapan mb-2 mx-auto" style="width: 18rem;">
                         <div class="card-icon-stay text-center position-absolute ">
                             <h1 class="bi bi-file-earmark text-light bi-icon"></h1>
