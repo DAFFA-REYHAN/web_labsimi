@@ -37,8 +37,8 @@
                 <div class="navbar-nav ms-auto">
                     <a class="navbar nav-link me-3" aria-current="page" href="#beranda">Beranda</a>
                     <a class="navbar nav-link me-3" href="#berita">Berita</a>
-                    <a class="navbar nav-link me-3" href="#perlengkapan">File Prkatikum</a>
-                    <a class="navbar nav-link" href="#gallery">Struktur Lab</a>
+                    <a class="navbar nav-link me-3" href="#perlengkapan">Perlengkapan</a>
+                    <a class="navbar nav-link" href="#gallery">Struktur</a>
                 </div>
                 <div class="navbar-nav ms-auto icon d-flex text-end">
                     <a class="nav-link active me-2" aria-current="page"
@@ -73,9 +73,9 @@
     <!-- Beranda -->
     <section id="beranda" class="bg-dark d-flex align-items-center ">
         <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <h1 class=" text-light">Laboratorium Sistem Informasi & Manajemen Informatika </h1>
+            <div class="row mx-0">
+                <div class="col-md-6 offset-md-1">
+                    <h1 class="text-light">Laboratorium Sistem Informasi & Manajemen Informatika </h1>
                     <p class="text-light">Penyajian Informasi seputar <span class="text-warning">Laboratorium<span>
                                 Sistem Informasi</p>
                     <a href="#kontak" class="btn btn-danger ">Hubungi Kami</a>
@@ -99,7 +99,7 @@
                 <div class="card mb-3 " style="max-width: 740px;height:195px; ">
                     <button type="button" class="btn btn_modal" data-bs-toggle="modal"
                         data-bs-target="#staticBackdrop1">
-                        <div class="row g-0 text-start">
+                        <div class="row g-0 text-start mx-0">
 
 
 
@@ -124,7 +124,7 @@
                 <div class="card mb-3 " style="max-width: 740px;height:195px; ">
                     <button type="button" class="btn btn_modal px-1" data-bs-toggle="modal"
                         data-bs-target="#staticBackdrop2">
-                        <div class="row g-0 text-start">
+                        <div class="row g-0 text-start mx-0">
 
 
 
@@ -181,7 +181,7 @@
     <section id="perlengkapan" class="bg-dark d-flex align-items-center position-relative">
         <div class="container position-relative">
             <div class="row mx-0 pb-4">
-                <h2 class="text-light text-center pb-5 fw-bold perlengkapan-judul">Perlengkapan Praktikum</h2>
+                <h2 class="text-light text-center pb-5 fw-bold perlengkapan-judul">Perlengkapan Praktikan</h2>
                 <div class="col-lg-4 col-md-6">
                     <div class="card position-relative card-perlengkapan mb-2 mx-auto" style="width: 18rem;">
                         <div class="card-icon-stay text-center position-absolute ">
@@ -251,77 +251,220 @@
                 <h2 class="fw-bold text-dark text-center gallery-judul">Asisten Aktif</h2>
                 <div class="col-12">
                     <div class="card mx-auto" style="width: 12rem;">
-                        <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                        <img src="src/pakyudi.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-nama text-center">Naza Zulfiqi</h5>
+                            <h5 class="card-nama text-center">Yudi Irawan Chandra SKom., MMSI.</h5>
                             <p class="card-jabatan text-center"><i>Head of Laboratory</i></p>
-                            <p class="card-tahun text-center">2020 - Sekarang</p>
+                            <!-- <p class="card-tahun text-center">2020 - Sekarang</p> -->
                         </div>
                     </div>
                     <div class="row mx-0">
                         <div class="col-md-4">
                             <div class="card mx-auto" style="width: 12rem;">
-                                <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                                <img src="src/daffa.png" class="card-img-top" alt="...">
                                 <div class="card-body">
-                                    <h5 class="card-nama text-center">Naza Zulfiqi</h5>
+                                    <h5 class="card-nama text-center">Daffa Reyhan</h5>
                                     <p class="card-tahun text-center">2020 - Sekarang</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="card mx-auto" style="width: 12rem;">
-                                <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                                <img src="src/clarissa.png" class="card-img-top" alt="...">
                                 <div class="card-body">
-                                    <h5 class="card-nama text-center">Naza Zulfiqi</h5>
+                                    <h5 class="card-nama text-center">Clarissa Cahya N</h5>
                                     <p class="card-tahun text-center">2020 - Sekarang</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="card mx-auto" style="width: 12rem;">
-                                <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                                <img src="src/fakhri.png" class="card-img-top" alt="...">
                                 <div class="card-body">
-                                    <h5 class="card-nama text-center">Naza Zulfiqi</h5>
-                                    <p class="card-tahun text-center">2020 - Sekarang</p>
+                                    <h5 class="card-nama text-center">Fakhri Haromain</h5>
+                                    <p class="card-tahun text-center">2021 - Sekarang</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row mx-0">
                             <div class="col-lg-3 col-md-4">
                                 <div class="card mx-auto" style="width: 12rem;">
-                                    <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                                    <img src="src/anisya.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Naza Zulfiqi</h5>
+                                        <h5 class="card-nama text-center">Anisya Komalasari</h5>
                                         <p class="card-tahun text-center">2020 - Sekarang</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-4">
                                 <div class="card mx-auto" style="width: 12rem;">
-                                    <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                                    <img src="src/fitri.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Naza Zulfiqi</h5>
+                                        <h5 class="card-nama text-center">Fitri Nurhikmah</h5>
                                         <p class="card-tahun text-center">2020 - Sekarang</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-4">
                                 <div class="card mx-auto" style="width: 12rem;">
-                                    <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                                    <img src="src/dinda.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Naza Zulfiqi</h5>
+                                        <h5 class="card-nama text-center">Dinda Nurazizah</h5>
                                         <p class="card-tahun text-center">2020 - Sekarang</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3 accordioncol-md-4">
                                 <div class="card mx-auto" style="width: 12rem;">
-                                    <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                                    <img src="src/inna.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Naza Zulfiqi</h5>
+                                        <h5 class="card-nama text-center">Inna <br>Soviyati</h5>
                                         <p class="card-tahun text-center">2020 - Sekarang</p>
                                     </div>
                                 </div>
+                            </div>
+                        </div>
+                        <div class="row mx-0">
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/fahri.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Fahri Alfiansyah</h5>
+                                        <p class="card-tahun text-center">2020 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/jeki.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Rizaki Fadhilla F</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/nazul.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Naza <br> Zulfiqi</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 accordioncol-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/zidane.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Zidane <br> Arvito</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mx-0">
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/sani.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Ilham <br>Sani</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/azkia.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Nur Azkia<br> Rahmah </h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/mutsol.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Muthia <br>Solikin</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 accordioncol-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/radhya.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Radhya<br>Anindita</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mx-0">
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/azz.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Azizah Dwi<br>Juniasari</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/putri.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Putri <br>Rahmawati </h5>
+                                        <p class="card-tahun text-center">2022 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/dea.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Dea Ainun <br>Latifah</h5>
+                                        <p class="card-tahun text-center">2022 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 accordioncol-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/icang.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Annisa <br>Ramadhani</h5>
+                                        <p class="card-tahun text-center">2022 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mx-0">
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+
+                                    <div class="card-body">
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/dzaki.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Dzaki<br>Farizqi</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/fikri.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Fikri <br>Kamal</h5>
+                                        <p class="card-tahun text-center">2022 - Sekarang</p>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -338,36 +481,11 @@
 
     <!-- Footer -->
     <footer class="text-center text-lg-start bg-dark text-muted">
-        <!-- Section: Social media -->
-        <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
-            <!-- Left -->
-            <div class="me-5 d-none d-lg-block">
-                <span>Get connected with us on social networks:</span>
-            </div>
-            <!-- Left -->
 
-            <!-- Right -->
-            <div>
-                <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&to=labsimi2023@email.com"
-                    class="me-4 text-reset">
-                    <i class="fas fa-envelope"></i>
-                </a>
-                <a href="https://www.youtube.com/channel/UC9y9b7hSTHw1tAKo4zgTbBQ" class="me-4 text-reset">
-                    <i class="fab fa-youtube"></i>
-                </a>
-                <a href="https://www.instagram.com/labsimi_/" class="me-4 text-reset">
-                    <i class="fab fa-instagram"></i>
-                </a>
-                <a href="https://github.com/Labsimi" class="me-4 text-reset">
-                    <i class="fab fa-github"></i>
-                </a>
-            </div>
-            <!-- Right -->
-        </section>
-        <!-- Section: Social media -->
 
         <!-- Section: Links  -->
-        <section class="" id="kontak">
+        <section class="pt-2" id="kontak">
+            <hr class="text-white">
             <div class="container text-center text-md-start mt-5">
                 <!-- Grid row -->
                 <div class="row mt-3">
@@ -381,6 +499,8 @@
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.039854378094!2d106.79009881431057!3d-6.258480663015093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f10a903f7f05%3A0x1e3c83822188e5a9!2sSTMIK%20Jakarta%20STI%26K!5e0!3m2!1sid!2sid!4v1668580902113!5m2!1sid!2sid"
                             width="300" height="150" style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <p class="f_alamat"> Jl. BRI Radio Dalam No.17, Gandaria Utara, Kec. Kby. Baru, Kota Jakarta
+                            Selatan, Daerah Khusus Ibukota Jakarta 12140</p>
                     </div>
                     <!-- Grid column -->
 
@@ -392,7 +512,7 @@
                         </h6>
                         <p style="text-align: justify">
                             Informasi bagi mahasiswa lanjutan maupun mahasiswa yang ingin mengulang praktikum, segera
-                            lapor ke contact dikanan ini dan jangan lupa siapkan KRS anda. <br>
+                            hubungi ke Contact yang tertera dan jangan lupa siapkan KRS anda. <br>
                             Thanks ! 😊
                         </p>
 
@@ -404,13 +524,13 @@
                         <!-- Links -->
                         <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
 
-                        <p><i class="fas fa-envelope me-3" class="footer_contact"></i> <a href="">
+                        <p><i class="fas fa-envelope me-1" class="footer_contact"></i> <a href="">
                                 labsimi2023@gmail.com</a></p>
-                        <p><i class="fas fa-phone me-3" class="footer_contact"></i> <a
+                        <p><i class="fas fa-phone me-1" class="footer_contact"></i> <a
                                 href="https://wa.me/6285782694950">+62 857-8269-4950</a> (Fakhri)</p>
-                        <p><i class="fas fa-phone me-3" class="footer_contact"></i> <a
+                        <p><i class="fas fa-phone me-1" class="footer_contact"></i> <a
                                 href="https://wa.me/6287771365424">+62 877-7136-5424</a> (Clarissa)</p>
-                        <p><i class="fas fa-phone me-3" class="footer_contact"></i> <a
+                        <p><i class="fas fa-phone me-1" class="footer_contact"></i> <a
                                 href="https://wa.me/6285881839674">+62 858-8183-9674</a> (Daffa)</p>
                     </div>
                     <!-- Grid column -->
@@ -510,7 +630,7 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                    <div id="carouselExampleIndicators" class="carousel slide " data-bs-ride="carousel">
 
                         <div class="carousel-inner">
                             <div class="carousel-item active">
@@ -523,13 +643,13 @@
                             </div>
 
                         </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
-                            data-bs-slide="prev">
+                        <button class="carousel-control-prev text-danger" type="button"
+                            data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="visually-hidden">Previous</span>
                         </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
-                            data-bs-slide="next">
+                        <button class="carousel-control-next text-danger" type="button"
+                            data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="visually-hidden">Next</span>
                         </button>
@@ -597,6 +717,20 @@
             document.getElementById("image").src = "src/logo_nav_dark.png";
         }
     })
+    </script>
+
+    <script>
+    function scrollTop() {
+        const scrollTop = document.getElementById('scroll-top')
+
+        if (this.scrollY >= 200) {
+            scrollTop.classList.add('show-scroll');
+        }
+        if (this.scrollY <= 200) {
+            scrollTop.classList.remove('show-scroll');
+        }
+    }
+    window.addEventListener('scroll', scrollTop)
     </script>
 
     <script>
