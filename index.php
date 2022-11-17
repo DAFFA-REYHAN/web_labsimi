@@ -430,7 +430,7 @@
                                     <img src="src/dzaki.png" class="card-img-top" alt="...">
                                     <div class="card-body">
                                         <h5 class="card-nama text-center">Dzaki<br>Farizqi</h5>
-                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                        <p class="card-tahun text-center">2022 - Sekarang</p>
                                     </div>
                                 </div>
                             </div>
@@ -484,7 +484,7 @@
                         <h6 class="text-uppercase fw-bold mb-4">
                             Attention
                         </h6>
-                        <p style="text-align: justify">
+                        <p style="text-align: justify ;">
                             Informasi bagi mahasiswa lanjutan maupun mahasiswa yang ingin mengulang praktikum, segera hubungi ke Contact yang tertera dan jangan lupa siapkan KRS anda. <br>
                             Thanks ! 😊
                         </p>
