@@ -201,7 +201,7 @@ footer a{
     font-size: 14px;
 }
 /* responsive */
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
     .gambars {
         margin-top: 30px;
         margin-left: 10px;
