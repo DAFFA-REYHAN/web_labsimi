@@ -60,8 +60,8 @@
     <!-- Beranda -->
     <section id="beranda" class="bg-dark d-flex align-items-center ">
         <div class="container">
-            <div class="row">
-                <div class="col-md-6 offset-1">
+            <div class="row mx-0">
+                <div class="col-md-6 offset-md-1">
                     <h1 class="text-light">Laboratorium Sistem Informasi & Manajemen Informatika </h1>
                     <p class="text-light">Penyajian Informasi seputar <span class="text-warning">Laboratorium<span>
                                 Sistem Informasi</p>
@@ -85,7 +85,7 @@
                 <!-- CARD 1  -->
                 <div class="card mb-3 " style="max-width: 740px;height:195px; ">
                     <button type="button" class="btn btn_modal" data-bs-toggle="modal" data-bs-target="#staticBackdrop1">
-                        <div class="row g-0 text-start">
+                        <div class="row g-0 text-start mx-0">
 
 
 
@@ -108,7 +108,7 @@
                 <!-- CARD 2 -->
                 <div class="card mb-3 " style="max-width: 740px;height:195px; ">
                     <button type="button" class="btn btn_modal px-1" data-bs-toggle="modal" data-bs-target="#staticBackdrop2">
-                        <div class="row g-0 text-start">
+                        <div class="row g-0 text-start mx-0">
 
 
 
@@ -417,11 +417,11 @@
                             </div>
                         </div>
                         <div class="row mx-0">
-                             <div class="col-lg-3 col-md-4">
+                            <div class="col-lg-3 col-md-4">
                                 <div class="card mx-auto" style="width: 12rem;">
-                                    
+
                                     <div class="card-body">
-                                       
+
                                     </div>
                                 </div>
                             </div>
@@ -442,9 +442,9 @@
                                         <p class="card-tahun text-center">2022 - Sekarang</p>
                                     </div>
                                 </div>
-                            
-                                </div>
+
                             </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -473,7 +473,7 @@
                         <h6 class="text-uppercase fw-bold mb-4">
                             Location
                         </h6>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.039854378094!2d106.79009881431057!3d-6.258480663015093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f10a903f7f05%3A0x1e3c83822188e5a9!2sSTMIK%20Jakarta%20STI%26K!5e0!3m2!1sid!2sid!4v1668580902113!5m2!1sid!2sid" width="350" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.039854378094!2d106.79009881431057!3d-6.258480663015093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f10a903f7f05%3A0x1e3c83822188e5a9!2sSTMIK%20Jakarta%20STI%26K!5e0!3m2!1sid!2sid!4v1668580902113!5m2!1sid!2sid" width="300" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         <p class="f_alamat"> Jl. BRI Radio Dalam No.17, Gandaria Utara, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12140</p>
                     </div>
                     <!-- Grid column -->
