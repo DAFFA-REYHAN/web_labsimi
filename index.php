@@ -21,6 +21,9 @@
 </head>
 
 <body>
+    <a href="#beranda" class="scrolltop" id="scroll-top">
+        <i class="fas fa-chevron-up scrolltop_icon"></i>
+    </a>
     <!-- Navbar -->
     <nav id="nav" class="navbar navbar-expand-lg navbar-dark bg-dark p-0 fixed-top">
         <div class="container">
@@ -71,14 +74,14 @@
     <section id="beranda" class="bg-dark d-flex align-items-center ">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 offset-1">
-                    <h1 class="text-light">Laboratorium Sistem Informasi & Manajemen Informatika </h1>
+                <div class="col-md-6">
+                    <h1 class=" text-light">Laboratorium Sistem Informasi & Manajemen Informatika </h1>
                     <p class="text-light">Penyajian Informasi seputar <span class="text-warning">Laboratorium<span>
                                 Sistem Informasi</p>
                     <a href="#kontak" class="btn btn-danger ">Hubungi Kami</a>
                 </div>
                 <div class="col-md-5  text-start">
-                    <img class="gambars" src="src/comp-landing.png" alt="gambar-landing" width="400px">
+                    <img class="gambars" src="src/comp-landing.png" alt="gambar-landing" width="250px">
                 </div>
             </div>
         </div>
@@ -107,7 +110,7 @@
                             <div class="col-md-8">
                                 <div class="card-body pe-0">
                                     <h5 class="card-title">Jadwal Praktikum</h5>
-                                    <div class="text-cover" style="height:77px;overflow-y:hidden" ;>
+                                    <div class="text-cover" style="height:77px;overflow-y:hidden;">
                                         <p class="card-text mt-1 ">Berikut ini adalah Jadwal Praktikum 2022-2023. </p>
                                     </div>
                                     <p class="card-text mt-3"><small class="text-muted">Last updated 1 months
@@ -217,7 +220,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 mx-auto">
+                <div class="col-lg-4 col-md-6">
                     <div class="card position-relative card-perlengkapan mb-2 mx-auto" style="width: 18rem;">
                         <div class="card-icon-stay text-center position-absolute ">
                             <h1 class="bi bi-file-earmark text-light bi-icon"></h1>
@@ -594,6 +597,20 @@
             document.getElementById("image").src = "src/logo_nav_dark.png";
         }
     })
+    </script>
+
+    <script>
+    function scrollTop() {
+        const scrollTop = document.getElementById('scroll-top')
+
+        if (this.scrollY >= 200) {
+            scrollTop.classList.add('show-scroll');
+        }
+        if (this.scrollY <= 200) {
+            scrollTop.classList.remove('show-scroll');
+        }
+    }
+    window.addEventListener('scroll', scrollTop)
     </script>
 
     <!-- <script type="text/javascript" src="js/vanilla-tilt.js"></script>
