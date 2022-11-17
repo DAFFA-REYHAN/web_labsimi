@@ -81,7 +81,7 @@
                     <a href="#kontak" class="btn btn-danger ">Hubungi Kami</a>
                 </div>
                 <div class="col-md-5  text-start">
-                    <img class="gambars" src="src/comp-landing.png" alt="gambar-landing" width="250px">
+                    <img class="gambars" src="src/comp-landing.png" alt="gambar-landing" width="400px">
                 </div>
             </div>
         </div>
@@ -318,7 +318,7 @@
                                 <div class="card mx-auto" style="width: 12rem;">
                                     <img src="src/inna.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Inna <br>Soviyati</h5>
+                                        <h5 class="card-nama text-center">Inna Soviyati</h5>
                                         <p class="card-tahun text-center">2020 - Sekarang</p>
                                     </div>
                                 </div>
@@ -347,7 +347,7 @@
                                 <div class="card mx-auto" style="width: 12rem;">
                                     <img src="src/nazul.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Naza <br> Zulfiqi</h5>
+                                        <h5 class="card-nama text-center">Naza Zulfiqi</h5>
                                         <p class="card-tahun text-center">2021 - Sekarang</p>
                                     </div>
                                 </div>
@@ -356,7 +356,7 @@
                                 <div class="card mx-auto" style="width: 12rem;">
                                     <img src="src/zidane.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Zidane <br> Arvito</h5>
+                                        <h5 class="card-nama text-center">Zidane Arvito</h5>
                                         <p class="card-tahun text-center">2021 - Sekarang</p>
                                     </div>
                                 </div>
@@ -367,7 +367,7 @@
                                 <div class="card mx-auto" style="width: 12rem;">
                                     <img src="src/sani.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Ilham <br>Sani</h5>
+                                        <h5 class="card-nama text-center">Ilham Sani</h5>
                                         <p class="card-tahun text-center">2021 - Sekarang</p>
                                     </div>
                                 </div>
@@ -376,7 +376,7 @@
                                 <div class="card mx-auto" style="width: 12rem;">
                                     <img src="src/azkia.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Nur Azkia<br> Rahmah </h5>
+                                        <h5 class="card-nama text-center">Nur Azkia Rahmah </h5>
                                         <p class="card-tahun text-center">2021 - Sekarang</p>
                                     </div>
                                 </div>
@@ -385,7 +385,7 @@
                                 <div class="card mx-auto" style="width: 12rem;">
                                     <img src="src/mutsol.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Muthia <br>Solikin</h5>
+                                        <h5 class="card-nama text-center">Muthia Solikin</h5>
                                         <p class="card-tahun text-center">2021 - Sekarang</p>
                                     </div>
                                 </div>
@@ -394,7 +394,7 @@
                                 <div class="card mx-auto" style="width: 12rem;">
                                     <img src="src/radhya.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Radhya<br>Anindita</h5>
+                                        <h5 class="card-nama text-center">Radhya Anindita</h5>
                                         <p class="card-tahun text-center">2021 - Sekarang</p>
                                     </div>
                                 </div>
@@ -405,7 +405,7 @@
                                 <div class="card mx-auto" style="width: 12rem;">
                                     <img src="src/azz.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Azizah Dwi<br>Juniasari</h5>
+                                        <h5 class="card-nama text-center">Azizah D. Juniasari</h5>
                                         <p class="card-tahun text-center">2021 - Sekarang</p>
                                     </div>
                                 </div>
@@ -414,7 +414,7 @@
                                 <div class="card mx-auto" style="width: 12rem;">
                                     <img src="src/putri.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Putri <br>Rahmawati </h5>
+                                        <h5 class="card-nama text-center">Putri Rahmawati </h5>
                                         <p class="card-tahun text-center">2022 - Sekarang</p>
                                     </div>
                                 </div>
@@ -423,7 +423,7 @@
                                 <div class="card mx-auto" style="width: 12rem;">
                                     <img src="src/dea.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Dea Ainun <br>Latifah</h5>
+                                        <h5 class="card-nama text-center">Dea Ainun Latifah</h5>
                                         <p class="card-tahun text-center">2022 - Sekarang</p>
                                     </div>
                                 </div>
@@ -432,7 +432,7 @@
                                 <div class="card mx-auto" style="width: 12rem;">
                                     <img src="src/icang.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Annisa <br>Ramadhani</h5>
+                                        <h5 class="card-nama text-center">Annisa Ramadhani</h5>
                                         <p class="card-tahun text-center">2022 - Sekarang</p>
                                     </div>
                                 </div>
@@ -451,7 +451,7 @@
                                 <div class="card mx-auto" style="width: 12rem;">
                                     <img src="src/dzaki.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Dzaki<br>Farizqi</h5>
+                                        <h5 class="card-nama text-center">Dzaki Farizqi</h5>
                                         <p class="card-tahun text-center">2021 - Sekarang</p>
                                     </div>
                                 </div>
@@ -460,7 +460,7 @@
                                 <div class="card mx-auto" style="width: 12rem;">
                                     <img src="src/fikri.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Fikri <br>Kamal</h5>
+                                        <h5 class="card-nama text-center">Fikri Kamal</h5>
                                         <p class="card-tahun text-center">2022 - Sekarang</p>
                                     </div>
                                 </div>
@@ -512,7 +512,7 @@
                         </h6>
                         <p style="text-align: justify">
                             Informasi bagi mahasiswa lanjutan maupun mahasiswa yang ingin mengulang praktikum, segera
-                            hubungi ke Contact yang tertera dan jangan lupa siapkan KRS anda. <br>
+                            hubungi ke Contact yang tertera dan jangan lupa siapkan KRS anda.
                             Thanks ! 😊
                         </p>
 
