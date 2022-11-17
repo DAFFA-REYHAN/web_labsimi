@@ -21,6 +21,9 @@
 </head>
 
 <body>
+    <a href="#beranda" class="scrolltop" id="scroll-top">
+        <i class="fas fa-chevron-up scrolltop_icon"></i>
+    </a>
     <!-- Navbar -->
     <nav id="nav" class="navbar navbar-expand-lg navbar-dark bg-dark p-0 fixed-top">
         <div class="container">
@@ -107,7 +110,7 @@
                             <div class="col-md-8">
                                 <div class="card-body pe-0">
                                     <h5 class="card-title">Jadwal Praktikum</h5>
-                                    <div class="text-cover" style="height:77px;overflow-y:hidden" ;>
+                                    <div class="text-cover" style="height:77px;overflow-y:hidden;">
                                         <p class="card-text mt-1 ">Berikut ini adalah Jadwal Praktikum 2022-2023. </p>
                                     </div>
                                     <p class="card-text mt-3"><small class="text-muted">Last updated 1 months
@@ -594,6 +597,20 @@
             document.getElementById("image").src = "src/logo_nav_dark.png";
         }
     })
+    </script>
+
+    <script>
+    function scrollTop() {
+        const scrollTop = document.getElementById('scroll-top')
+
+        if (this.scrollY >= 200) {
+            scrollTop.classList.add('show-scroll');
+        }
+        if (this.scrollY <= 200) {
+            scrollTop.classList.remove('show-scroll');
+        }
+    }
+    window.addEventListener('scroll', scrollTop)
     </script>
 
     <!-- <script type="text/javascript" src="js/vanilla-tilt.js"></script>
