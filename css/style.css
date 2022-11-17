@@ -226,6 +226,10 @@ footer a{
     bottom: 1.5rem;
 }
   
+
+.f_alamat{
+    font-size: 14px;
+}
 /* responsive */
 /* @media only screen and (max-width: 00px) {
     #berita .card {
