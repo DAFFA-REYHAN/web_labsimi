@@ -229,79 +229,222 @@
                 <h2 class="fw-bold text-dark text-center gallery-judul">Asisten Aktif</h2>
                 <div class="col-12">
                     <div class="card mx-auto" style="width: 12rem;">
-                        <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                        <img src="src/pakyudi.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-nama text-center">Naza Zulfiqi</h5>
+                            <h5 class="card-nama text-center">Yudi Irawan Chandra SKom., MMSI.</h5>
                             <p class="card-jabatan text-center"><i>Head of Laboratory</i></p>
-                            <p class="card-tahun text-center">2020 - Sekarang</p>
+                            <!-- <p class="card-tahun text-center">2020 - Sekarang</p> -->
                         </div>
                     </div>
                     <div class="row mx-0">
                         <div class="col-md-4">
                             <div class="card mx-auto" style="width: 12rem;">
-                                <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                                <img src="src/daffa.png" class="card-img-top" alt="...">
                                 <div class="card-body">
-                                    <h5 class="card-nama text-center">Naza Zulfiqi</h5>
+                                    <h5 class="card-nama text-center">Daffa Reyhan</h5>
                                     <p class="card-tahun text-center">2020 - Sekarang</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="card mx-auto" style="width: 12rem;">
-                                <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                                <img src="src/clarissa.png" class="card-img-top" alt="...">
                                 <div class="card-body">
-                                    <h5 class="card-nama text-center">Naza Zulfiqi</h5>
+                                    <h5 class="card-nama text-center">Clarissa Cahya N</h5>
                                     <p class="card-tahun text-center">2020 - Sekarang</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="card mx-auto" style="width: 12rem;">
-                                <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                                <img src="src/fakhri.png" class="card-img-top" alt="...">
                                 <div class="card-body">
-                                    <h5 class="card-nama text-center">Naza Zulfiqi</h5>
-                                    <p class="card-tahun text-center">2020 - Sekarang</p>
+                                    <h5 class="card-nama text-center">Fakhri Haromain</h5>
+                                    <p class="card-tahun text-center">2021 - Sekarang</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row mx-0">
                             <div class="col-lg-3 col-md-4">
                                 <div class="card mx-auto" style="width: 12rem;">
-                                    <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                                    <img src="src/anisya.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Naza Zulfiqi</h5>
+                                        <h5 class="card-nama text-center">Anisya Komalasari</h5>
                                         <p class="card-tahun text-center">2020 - Sekarang</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-4">
                                 <div class="card mx-auto" style="width: 12rem;">
-                                    <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                                    <img src="src/fitri.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Naza Zulfiqi</h5>
+                                        <h5 class="card-nama text-center">Fitri Nurhikmah</h5>
                                         <p class="card-tahun text-center">2020 - Sekarang</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-4">
                                 <div class="card mx-auto" style="width: 12rem;">
-                                    <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                                    <img src="src/dinda.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Naza Zulfiqi</h5>
+                                        <h5 class="card-nama text-center">Dinda Nurazizah</h5>
                                         <p class="card-tahun text-center">2020 - Sekarang</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3 accordioncol-md-4">
                                 <div class="card mx-auto" style="width: 12rem;">
-                                    <img src="src/asisten_naza.svg" class="card-img-top" alt="...">
+                                    <img src="src/inna.png" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-nama text-center">Naza Zulfiqi</h5>
+                                        <h5 class="card-nama text-center">Inna <br>Soviyati</h5>
                                         <p class="card-tahun text-center">2020 - Sekarang</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        <div class="row mx-0">
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/fahri.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Fahri Alfiansyah</h5>
+                                        <p class="card-tahun text-center">2020 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/jeki.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Rizaki Fadhilla F</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/nazul.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Naza <br> Zulfiqi</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 accordioncol-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/zidane.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Zidane <br> Arvito</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mx-0">
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/sani.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Ilham <br>Sani</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/azkia.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Nur Azkia<br> Rahmah </h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/mutsol.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Muthia <br>Solikin</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 accordioncol-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/radhya.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Radhya<br>Anindita</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mx-0">
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/azz.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Azizah Dwi<br>Juniasari</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/putri.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Putri <br>Rahmawati </h5>
+                                        <p class="card-tahun text-center">2022 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/dea.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Dea Ainun <br>Latifah</h5>
+                                        <p class="card-tahun text-center">2022 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 accordioncol-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/icang.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Annisa <br>Ramadhani</h5>
+                                        <p class="card-tahun text-center">2022 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mx-0">
+                             <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    
+                                    <div class="card-body">
+                                       
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/dzaki.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Dzaki<br>Farizqi</h5>
+                                        <p class="card-tahun text-center">2021 - Sekarang</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4">
+                                <div class="card mx-auto" style="width: 12rem;">
+                                    <img src="src/fikri.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-nama text-center">Fikri <br>Kamal</h5>
+                                        <p class="card-tahun text-center">2022 - Sekarang</p>
+                                    </div>
+                                </div>
+                            
+                                </div>
+                            </div>
                     </div>
                 </div>
             </div>
