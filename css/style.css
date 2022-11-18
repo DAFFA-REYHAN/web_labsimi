@@ -210,7 +210,22 @@ footer a{
     #gallery .card-body .card-nama{
         font-size: 20px;
     }
+    nav {
+        display: flex;
+    }
+    .card-berita {
+        height: 360px !important;
 
+        
+    }
+    .card-img{
+        height:150px;
+        width: 200px !important ;
+
+    }
+    .btn_modal{
+        height: 300px;
+    }
   }
 /* @media screen (max-width:1024px) {
     
