@@ -27,6 +27,8 @@
     <!-- Navbar -->
     <nav id="nav" class="navbar navbar-expand-lg navbar-dark bg-dark p-0 fixed-top">
         <div class="container">
+            <a class="navbar-brand me-4" href="https://jak-stik.ac.id/"><img src="src/stimik.png" alt="Logo STIMIK"
+                    height="60px"></a>
             <a class="navbar-brand" href="index.php"><img id="image" src="src/logo_nav_light.png" alt="Logo Navbar"
                     width="200px"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
@@ -248,7 +250,7 @@
     <section id="gallery">
         <div class="container">
             <div class="row">
-                <h2 class="fw-bold text-dark text-center gallery-judul">Asisten Aktif</h2>
+                <h2 class="fw-bold text-dark text-center gallery-judul">Struktur Lab </h2>
                 <div class="col-12">
                     <div class="card mx-auto" style="width: 12rem;">
                         <img src="src/pakyudi.png" class="card-img-top" alt="...">
@@ -258,6 +260,7 @@
                             <!-- <p class="card-tahun text-center">2020 - Sekarang</p> -->
                         </div>
                     </div>
+                    <h2 class="fw-bold text-dark text-center gallery-judul">Asisten Aktif</h2>
                     <div class="row mx-0">
                         <div class="col-md-4">
                             <div class="card mx-auto" style="width: 12rem;">
@@ -511,7 +514,8 @@
                             Attention
                         </h6>
                         <p style="text-align: justify">
-                            Informasi bagi mahasiswa lanjutan maupun mahasiswa yang ingin mengulang praktikum, segera hubungi ke Contact yang tertera dan jangan lupa siapkan KRS anda. <br>
+                            Informasi bagi mahasiswa lanjutan maupun mahasiswa yang ingin mengulang praktikum, segera
+                            hubungi ke Contact yang tertera dan jangan lupa siapkan KRS anda. <br>
                             Thanks ! 😊
                         </p>
 
@@ -695,9 +699,8 @@
         window.addEventListener('scroll', function () {
             scrollposition = window.scrollY;
 
-            if (scrollposition >= 580 && scrollposition <= 1260) {
+            if (scrollposition >= 580 && scrollposition <= 1250) {
                 nav.classList.remove('navbar-dark', 'bg-dark');
-                nav.classList.add('navbar-light', 'bg-light');
                 nav.classList.add('navbar-light', 'bg-light');
                 document.getElementById("image").src = "src/logo_nav_dark.png";
 
@@ -706,7 +709,7 @@
                 nav.classList.add('navbar-dark', 'bg-dark');
                 document.getElementById("image").src = "src/logo_nav_light.png";
 
-            } else if (scrollposition >= 1240 && scrollposition <= 1890) {
+            } else if (scrollposition >= 1250 && scrollposition <= 1890) {
                 nav.classList.remove('navbar-light', 'bg-light');
                 nav.classList.add('navbar-dark', 'bg-dark');
                 document.getElementById("image").src = "src/logo_nav_light.png";
