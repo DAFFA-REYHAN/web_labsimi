@@ -1,8 +1,12 @@
+html{
+    scroll-behavior: smooth;
+}
 *{
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     margin: 0;
     padding: 0;
+    
 }
 
 h1{
@@ -15,19 +19,6 @@ h1{
     /* margin-top: -60px; */
 }
 
-#berita{
-    height: 100vh;
-  
-    max-width: 100%;
-    
-}
-#perlengkapan{
-    height: 100vh;
-  
-    max-width: 100%;
-    
-}
-
 .btn.btn-danger{
     background-color: #b41c11;
     margin-top: 20px;
@@ -35,7 +26,145 @@ h1{
     border: none;
 }
 
+#berita{
+    height: 100vh;
+  
+    max-width: 100%;
+    
+}
+#perlengkapan{
+    height: 100%;
+    max-width: 100%;
+    padding-bottom: 100px;
+    
+}
 
+#perlengkapan .perlengkapan-judul {
+    padding-top: 150px;
+}
+
+#gallery {
+    height: 100%;
+}
+
+footer .container-fluid {
+    height: 300px;
+}
+
+#gallery .gallery-judul {
+    padding-top: 100px;
+}
+
+/* Card Perlengkapan */
+
+#perlengkapan .container {
+    height: 100%;
+}
+
+#perlengkapan .card {
+        height: 350px;
+        box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+        border-radius: 15px;
+        background-color: rgba(255, 255, 255, 0.1);
+        align-items: center;
+        overflow: hidden;
+        border-top: 1px solid rgba(255, 255, 255, 0.5);
+        border-left: 1px solid rgba(255, 255, 255, 0.5);
+        backdrop-filter: blur(10px);
+        padding-left: 5px;
+        padding-right: 5px;
+
+}
+
+#perlengkapan .card .card-icon-stay {
+    opacity: 1;
+    margin-top: 45%;
+    overflow: hidden;
+}
+
+#perlengkapan .card:hover .card-icon-stay {
+    opacity: 0;
+    transition: 0.2s;
+    transform: translateY(-100px);
+    margin-top: 45%;
+}
+
+#perlengkapan .card .card-icon-stay .bi-icon {
+    font-size: 6rem;
+}
+
+#perlengkapan .card .card-body {
+    transform: translateY(100px);
+    opacity: 0;
+    transition: 0.3s;
+}
+
+
+
+#perlengkapan .card:hover .card-body {
+    transform: translateY(0px);
+    opacity: 1;
+}
+
+#perlengkapan .card .card-body h1 {
+    font-size: 5rem;
+}
+
+#perlengkapan .card h2 {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+#perlengkapan .card p {
+    font-size: 12px;
+    font-weight: 300;
+
+}
+
+#perlengkapan .card .btn-light {
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+}
+
+/* Gallery */
+
+#gallery .card {
+    border: none;
+}
+
+#gallery .card-body {
+    padding-top: 2px;
+}
+
+#gallery .card-nama {
+    font-size: 16px;
+    margin-bottom: 4px;
+}
+
+#gallery .card-tahun {
+    font-size: 12px;
+}
+
+#gallery .card-jabatan {
+    font-size: 12px;
+    margin-bottom: 4px;
+
+}
+
+/* Footer */
+
+.logo-footer p {
+    letter-spacing: 5px;
+    font-size: 10px;
+}
+
+footer #kontak p a:hover{
+    color: #fff;
+}
+
+
+/* Animation */
 .gambars{
     animation: rotate 5s linear infinite;
 }
@@ -50,14 +179,89 @@ h1{
 
 
 
-
-  
-/* responsive */
-/* @media screen (max-width:400px) {
+/* BUTTON MODAL */
+.btn_modal{
+    background-color: white ;
+    border: none;
     
 }
 
-@media screen (max-width:1024px) {
+.btn_modal:target{
+    border: none !important;
+    
+}
+
+footer a{
+    text-decoration: none;
+    color: #818080;
+}
+  
+
+.f_alamat{
+    font-size: 14px;
+}
+
+.sekolah{
+    font-size: 14px;
+}
+
+/* Scroll Top */
+.scrolltop{
+    text-decoration: none;
+    position: fixed;
+    right: 1rem;
+    bottom: -20%;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 20px;
+    z-index: 1;
+    transition: .4s;
+
+}
+
+.scrolltop:hover{
+    
+    background-color: rgba(0, 0, 0, 1);
+}
+.scrolltop_icon{
+    font-size: 1.8rem;
+    color:white;
+
+}
+.show-scroll{
+    visibility: visible;
+    bottom: 1.5rem;
+}
+/* responsive */
+@media only screen and (max-width: 600px) {
+    .gambars {
+        margin-top: 30px;
+        margin-left: 10px;
+        width: 300px;
+}
+    #gallery .card-body .card-nama{
+        font-size: 20px;
+    }
+    nav {
+        display: flex;
+    }
+    .card-berita {
+        height: 360px !important;
+
+        
+    }
+    .card-img{
+        height:150px;
+        width: 200px !important ;
+
+    }
+    .btn_modal{
+        height: 300px;
+    }
+  }
+/* @media screen (max-width:1024px) {
     
 } */
 
